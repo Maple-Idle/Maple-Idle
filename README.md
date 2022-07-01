@@ -18,4 +18,4 @@ For this reason, I have to constantly improve myself through learning
 
 Stand out from it and make better technology
 
---I'm  **Maple-Idle** (*Nickname*)
+--I'm **Maple-Idle** (*Nickname*)
